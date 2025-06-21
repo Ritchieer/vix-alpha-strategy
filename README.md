@@ -30,7 +30,7 @@ See [`strategy_demo.ipynb`](./strategy_demo.ipynb) for:
 ## 🖼 Example Output
 
 <p align="center">
-  <img src="./images/nvda_simulated_chart.jpg" width="600">
+  <img src="./images/nvda_simulated_chart.png" width="600">
 </p>
 
 ---
